@@ -1,0 +1,16 @@
+{
+  "name": "d3-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "dependencies": {
+    "d3": "^5.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
